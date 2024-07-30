@@ -142,3 +142,8 @@
 2024/07/30 17:05:14 http://physics-api-cn.turtlesim.com/Users 1159mss
 2024/07/30 17:05:14 http://nlm-api-cn.turtlesim.com/Users 698mss
 2024/07/30 17:05:14 http://nlm-api.turtlesim.com/Users 1319mss
+
+2024/07/30 17:26:39 http://physics-api.turtlesim.com/Users 1287mss
+2024/07/30 17:26:39 http://physics-api-cn.turtlesim.com/Users 810mss
+2024/07/30 17:26:39 http://nlm-api-cn.turtlesim.com/Users 603mss
+2024/07/30 17:26:39 http://nlm-api.turtlesim.com/Users 1476mss
