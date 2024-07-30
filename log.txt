@@ -52,3 +52,8 @@
 2024/07/30 15:33:41 http://physics-api-cn.turtlesim.com/Users timeout
 2024/07/30 15:33:41 http://nlm-api-cn.turtlesim.com/Users 701mss
 2024/07/30 15:33:41 http://nlm-api.turtlesim.com/Users 1490mss
+
+2024/07/30 15:41:20 http://physics-api.turtlesim.com/Users 2686mss
+2024/07/30 15:41:20 http://physics-api-cn.turtlesim.com/Users timeout
+2024/07/30 15:41:20 http://nlm-api-cn.turtlesim.com/Users 653mss
+2024/07/30 15:41:20 http://nlm-api.turtlesim.com/Users 1334mss
