@@ -1990,3 +1990,11 @@
 2024/08/07 23:28:20 http://tu.netlogo.org 3464mss
 2024/08/07 23:28:20 http://tu.netlogo.org 3465mss
 2024/08/07 23:28:20 http://pl.turtlesim.com 1283mss
+
+2024/08/08 00:40:51 http://physics-api.turtlesim.com/Users 1508mss
+2024/08/08 00:40:51 http://physics-api-cn.turtlesim.com/Users 609mss
+2024/08/08 00:40:51 http://nlm-api-cn.turtlesim.com/Users 636mss
+2024/08/08 00:40:51 http://nlm-api.turtlesim.com/Users 1573mss
+2024/08/08 00:40:51 http://tu.netlogo.org 3087mss
+2024/08/08 00:40:51 http://tu.netlogo.org 2610mss
+2024/08/08 00:40:51 http://pl.turtlesim.com 2762mss
