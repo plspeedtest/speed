@@ -18,8 +18,9 @@ const urllist = [
   "http://nlm-api-cn.turtlesim.com/Users",
   "http://nlm-api.turtlesim.com/Users",
   "http://tu.netlogo.org",
-	"http://tu.netlogo.org",
-	"http://pl.turtlesim.com"
+  "http://tu.netlogo.org",
+  "http://pl.turtlesim.com",
+  "http://physics-api-cn.turtlesim.com/Contents"
 ];
 
 const TIMEOUT_THRESHOLD = 10000;
