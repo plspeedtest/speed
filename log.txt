@@ -12405,3 +12405,12 @@
 2024/09/01 07:18:18 http://tu.netlogo.org 1642mss
 2024/09/01 07:18:18 http://pl.turtlesim.com 1833mss
 2024/09/01 07:18:18 http://physics-api-cn.turtlesim.com/Contents 596mss
+
+2024/09/01 07:40:03 http://physics-api.turtlesim.com/Users timeout
+2024/09/01 07:40:03 http://physics-api-cn.turtlesim.com/Users 606mss
+2024/09/01 07:40:03 http://nlm-api-cn.turtlesim.com/Users 608mss
+2024/09/01 07:40:03 http://nlm-api.turtlesim.com/Users 1407mss
+2024/09/01 07:40:03 http://tu.netlogo.org 1502mss
+2024/09/01 07:40:03 http://tu.netlogo.org 1417mss
+2024/09/01 07:40:03 http://pl.turtlesim.com 1299mss
+2024/09/01 07:40:03 http://physics-api-cn.turtlesim.com/Contents 570mss
