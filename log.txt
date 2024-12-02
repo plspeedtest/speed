@@ -62868,3 +62868,12 @@
 2024/12/03 04:23:45 http://tu.netlogo.org 1736mss
 2024/12/03 04:23:45 http://pl.turtlesim.com 1585mss
 2024/12/03 04:23:45 http://physics-api-cn.turtlesim.com/Contents 566mss
+
+2024/12/03 04:41:52 http://physics-api.turtlesim.com/Users 1419mss
+2024/12/03 04:41:52 http://physics-api-cn.turtlesim.com/Users 597mss
+2024/12/03 04:41:52 http://nlm-api-cn.turtlesim.com/Users 616mss
+2024/12/03 04:41:52 http://nlm-api.turtlesim.com/Users 1544mss
+2024/12/03 04:41:52 http://tu.netlogo.org 3083mss
+2024/12/03 04:41:52 http://tu.netlogo.org 3032mss
+2024/12/03 04:41:52 http://pl.turtlesim.com 1777mss
+2024/12/03 04:41:52 http://physics-api-cn.turtlesim.com/Contents 567mss
