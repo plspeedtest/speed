@@ -67404,3 +67404,12 @@
 2024/12/12 05:52:25 http://tu.netlogo.org timeout
 2024/12/12 05:52:25 http://pl.turtlesim.com timeout
 2024/12/12 05:52:25 http://physics-api-cn.turtlesim.com/Contents timeout
+
+2024/12/12 06:21:54 http://physics-api.turtlesim.com/Users 1475mss
+2024/12/12 06:21:54 http://physics-api-cn.turtlesim.com/Users 598mss
+2024/12/12 06:21:54 http://nlm-api-cn.turtlesim.com/Users 590mss
+2024/12/12 06:21:54 http://nlm-api.turtlesim.com/Users 1425mss
+2024/12/12 06:21:54 http://tu.netlogo.org 1493mss
+2024/12/12 06:21:54 http://tu.netlogo.org 1836mss
+2024/12/12 06:21:54 http://pl.turtlesim.com 1278mss
+2024/12/12 06:21:54 http://physics-api-cn.turtlesim.com/Contents 572mss
